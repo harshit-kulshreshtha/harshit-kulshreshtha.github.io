@@ -1,4 +1,4 @@
 # harshit-kulshreshtha.github.io
-#Module1 Solution:
+#Module2 Solution:
   https://harshit-kulshreshtha.github.io/
   
